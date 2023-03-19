@@ -1,1 +1,1 @@
-# matlibplot-challenge
+# matlibplot-mouse-study
